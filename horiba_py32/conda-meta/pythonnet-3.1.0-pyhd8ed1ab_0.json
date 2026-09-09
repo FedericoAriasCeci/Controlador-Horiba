@@ -1,0 +1,198 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [
+    "dotnet-runtime >=3.1",
+    "mono >=6.12"
+  ],
+  "depends": [
+    "clr_loader >=0.3.1,<0.4.0",
+    "python >=3.10,<3.15"
+  ],
+  "extracted_package_dir": "C:\\Users\\LEC\\.conda\\pkgs\\pythonnet-3.1.0-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/clr.py",
+    "Lib/site-packages/pythonnet-3.1.0.dist-info/INSTALLER",
+    "Lib/site-packages/pythonnet-3.1.0.dist-info/METADATA",
+    "Lib/site-packages/pythonnet-3.1.0.dist-info/RECORD",
+    "Lib/site-packages/pythonnet-3.1.0.dist-info/REQUESTED",
+    "Lib/site-packages/pythonnet-3.1.0.dist-info/WHEEL",
+    "Lib/site-packages/pythonnet-3.1.0.dist-info/direct_url.json",
+    "Lib/site-packages/pythonnet-3.1.0.dist-info/entry_points.txt",
+    "Lib/site-packages/pythonnet-3.1.0.dist-info/licenses/AUTHORS.md",
+    "Lib/site-packages/pythonnet-3.1.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/pythonnet-3.1.0.dist-info/top_level.txt",
+    "Lib/site-packages/pythonnet/__init__.py",
+    "Lib/site-packages/pythonnet/_pyinstaller/__init__.py",
+    "Lib/site-packages/pythonnet/_pyinstaller/hook-clr.py",
+    "Lib/site-packages/pythonnet/runtime/Python.Runtime.deps.json",
+    "Lib/site-packages/pythonnet/runtime/Python.Runtime.dll",
+    "Lib/site-packages/pythonnet/runtime/Python.Runtime.xml",
+    "Lib/site-packages/__pycache__/clr.cpython-310.pyc",
+    "Lib/site-packages/pythonnet/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/pythonnet/_pyinstaller/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/pythonnet/_pyinstaller/__pycache__/hook-clr.cpython-310.pyc"
+  ],
+  "fn": "pythonnet-3.1.0-pyhd8ed1ab_0.conda",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\LEC\\.conda\\pkgs\\pythonnet-3.1.0-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "3bfeb243d76286f62a8b5b685cf0353b",
+  "name": "pythonnet",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\LEC\\.conda\\pkgs\\pythonnet-3.1.0-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/clr.py",
+        "path_type": "hardlink",
+        "sha256": "f4b244f2f7a1810aa40814c35da07855405b7507836d2b39ce6676f377472d15",
+        "sha256_in_prefix": "f4b244f2f7a1810aa40814c35da07855405b7507836d2b39ce6676f377472d15",
+        "size_in_bytes": 96
+      },
+      {
+        "_path": "site-packages/pythonnet-3.1.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/pythonnet-3.1.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "11744d7580e08b08c3443077c2b88242063e56e2f24b5f5448d8144598b12874",
+        "sha256_in_prefix": "11744d7580e08b08c3443077c2b88242063e56e2f24b5f5448d8144598b12874",
+        "size_in_bytes": 6507
+      },
+      {
+        "_path": "site-packages/pythonnet-3.1.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "58deb8cb893fe2b04566c3edefa8a9e06c01921815bda930b5be0f62c0c68dea",
+        "sha256_in_prefix": "58deb8cb893fe2b04566c3edefa8a9e06c01921815bda930b5be0f62c0c68dea",
+        "size_in_bytes": 1715
+      },
+      {
+        "_path": "site-packages/pythonnet-3.1.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/pythonnet-3.1.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "b65123be8c8335734362c3a24f8f51c97bff5df1bcab4016cf1245b2f431ba05",
+        "sha256_in_prefix": "b65123be8c8335734362c3a24f8f51c97bff5df1bcab4016cf1245b2f431ba05",
+        "size_in_bytes": 173
+      },
+      {
+        "_path": "site-packages/pythonnet-3.1.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "24ccba53fca79d8b94f0593739074b9200911c9933873de91a635875f6464ad7",
+        "sha256_in_prefix": "24ccba53fca79d8b94f0593739074b9200911c9933873de91a635875f6464ad7",
+        "size_in_bytes": 105
+      },
+      {
+        "_path": "site-packages/pythonnet-3.1.0.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "2c9aa7730043d17f758fe0f5f136e38404a7d5b30f851d36ef71d804e0ce5a61",
+        "sha256_in_prefix": "2c9aa7730043d17f758fe0f5f136e38404a7d5b30f851d36ef71d804e0ce5a61",
+        "size_in_bytes": 65
+      },
+      {
+        "_path": "site-packages/pythonnet-3.1.0.dist-info/licenses/AUTHORS.md",
+        "path_type": "hardlink",
+        "sha256": "65a13631f078bed51e9a4033dea257e57a7f23097f3003b1ce1ba1c8a9136c93",
+        "sha256_in_prefix": "65a13631f078bed51e9a4033dea257e57a7f23097f3003b1ce1ba1c8a9136c93",
+        "size_in_bytes": 5096
+      },
+      {
+        "_path": "site-packages/pythonnet-3.1.0.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "e1dc3a6ff017a6800dc27a7220500f512b95fbcd996d38ebbbff85c693245369",
+        "sha256_in_prefix": "e1dc3a6ff017a6800dc27a7220500f512b95fbcd996d38ebbbff85c693245369",
+        "size_in_bytes": 1104
+      },
+      {
+        "_path": "site-packages/pythonnet-3.1.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "b7f71618074ca7097b60eefddfe68dc4da481144213837a08d15175ddd5a95f0",
+        "sha256_in_prefix": "b7f71618074ca7097b60eefddfe68dc4da481144213837a08d15175ddd5a95f0",
+        "size_in_bytes": 14
+      },
+      {
+        "_path": "site-packages/pythonnet/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "5ed9653c8ffc337c0e18020fde827f9deb1f3c56380ad8fc5aac82181e2927a7",
+        "sha256_in_prefix": "5ed9653c8ffc337c0e18020fde827f9deb1f3c56380ad8fc5aac82181e2927a7",
+        "size_in_bytes": 5195
+      },
+      {
+        "_path": "site-packages/pythonnet/_pyinstaller/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "9e89494ac60924882e6a0130f84215d1a508315231bcd320e033ccd574b2ca0f",
+        "sha256_in_prefix": "9e89494ac60924882e6a0130f84215d1a508315231bcd320e033ccd574b2ca0f",
+        "size_in_bytes": 71
+      },
+      {
+        "_path": "site-packages/pythonnet/_pyinstaller/hook-clr.py",
+        "path_type": "hardlink",
+        "sha256": "96ed006cb18e5f2b3272fc1fa3ccb4f21891cbf7ab6248d2cb0ab0b2e6307186",
+        "sha256_in_prefix": "96ed006cb18e5f2b3272fc1fa3ccb4f21891cbf7ab6248d2cb0ab0b2e6307186",
+        "size_in_bytes": 319
+      },
+      {
+        "_path": "site-packages/pythonnet/runtime/Python.Runtime.deps.json",
+        "path_type": "hardlink",
+        "sha256": "221cba5469377ae1455ab45932731ace29528b21a99f09ad478d10d8a3733897",
+        "sha256_in_prefix": "221cba5469377ae1455ab45932731ace29528b21a99f09ad478d10d8a3733897",
+        "size_in_bytes": 5977
+      },
+      {
+        "_path": "site-packages/pythonnet/runtime/Python.Runtime.dll",
+        "path_type": "hardlink",
+        "sha256": "648e6b415be8f45018af71f377aa3a97772799b353ac3a5e8612a99313de4907",
+        "sha256_in_prefix": "648e6b415be8f45018af71f377aa3a97772799b353ac3a5e8612a99313de4907",
+        "size_in_bytes": 445952
+      },
+      {
+        "_path": "site-packages/pythonnet/runtime/Python.Runtime.xml",
+        "path_type": "hardlink",
+        "sha256": "375673d8a6874c4391ecb40baf30257ac864a5c6ed692fd2730ccba108a3027d",
+        "sha256_in_prefix": "375673d8a6874c4391ecb40baf30257ac864a5c6ed692fd2730ccba108a3027d",
+        "size_in_bytes": 187318
+      },
+      {
+        "_path": "Lib/site-packages/__pycache__/clr.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pythonnet/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pythonnet/_pyinstaller/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pythonnet/_pyinstaller/__pycache__/hook-clr.cpython-310.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "conda-forge::pythonnet",
+  "sha256": "83a77482dfdc873dd493f40895771cd0956e6ac1a7ca5bfbdc11cd2f9e075437",
+  "size": 196592,
+  "subdir": "noarch",
+  "timestamp": 1779647558300,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/pythonnet-3.1.0-pyhd8ed1ab_0.conda",
+  "version": "3.1.0"
+}

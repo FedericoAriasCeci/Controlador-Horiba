@@ -1,0 +1,338 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "cffi >=1.17",
+    "python >=3.10"
+  ],
+  "extracted_package_dir": "C:\\Users\\LEC\\.conda\\pkgs\\clr_loader-0.3.1-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/clr_loader-0.3.1.dist-info/INSTALLER",
+    "Lib/site-packages/clr_loader-0.3.1.dist-info/METADATA",
+    "Lib/site-packages/clr_loader-0.3.1.dist-info/RECORD",
+    "Lib/site-packages/clr_loader-0.3.1.dist-info/REQUESTED",
+    "Lib/site-packages/clr_loader-0.3.1.dist-info/WHEEL",
+    "Lib/site-packages/clr_loader-0.3.1.dist-info/direct_url.json",
+    "Lib/site-packages/clr_loader-0.3.1.dist-info/licenses/LICENSE",
+    "Lib/site-packages/clr_loader-0.3.1.dist-info/top_level.txt",
+    "Lib/site-packages/clr_loader/__init__.py",
+    "Lib/site-packages/clr_loader/ffi/__init__.py",
+    "Lib/site-packages/clr_loader/ffi/dlls/amd64/ClrLoader.dll",
+    "Lib/site-packages/clr_loader/ffi/dlls/amd64/ClrLoader.pdb",
+    "Lib/site-packages/clr_loader/ffi/dlls/x86/ClrLoader.dll",
+    "Lib/site-packages/clr_loader/ffi/dlls/x86/ClrLoader.pdb",
+    "Lib/site-packages/clr_loader/ffi/hostfxr.py",
+    "Lib/site-packages/clr_loader/ffi/mono.py",
+    "Lib/site-packages/clr_loader/ffi/netfx.py",
+    "Lib/site-packages/clr_loader/hostfxr.py",
+    "Lib/site-packages/clr_loader/mono.py",
+    "Lib/site-packages/clr_loader/netfx.py",
+    "Lib/site-packages/clr_loader/py.typed",
+    "Lib/site-packages/clr_loader/types.py",
+    "Lib/site-packages/clr_loader/util/__init__.py",
+    "Lib/site-packages/clr_loader/util/clr_error.py",
+    "Lib/site-packages/clr_loader/util/coreclr_errors.py",
+    "Lib/site-packages/clr_loader/util/find.py",
+    "Lib/site-packages/clr_loader/util/hostfxr_errors.py",
+    "Lib/site-packages/clr_loader/util/runtime_spec.py",
+    "Lib/site-packages/clr_loader/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/clr_loader/ffi/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/clr_loader/ffi/__pycache__/hostfxr.cpython-310.pyc",
+    "Lib/site-packages/clr_loader/ffi/__pycache__/mono.cpython-310.pyc",
+    "Lib/site-packages/clr_loader/ffi/__pycache__/netfx.cpython-310.pyc",
+    "Lib/site-packages/clr_loader/__pycache__/hostfxr.cpython-310.pyc",
+    "Lib/site-packages/clr_loader/__pycache__/mono.cpython-310.pyc",
+    "Lib/site-packages/clr_loader/__pycache__/netfx.cpython-310.pyc",
+    "Lib/site-packages/clr_loader/__pycache__/types.cpython-310.pyc",
+    "Lib/site-packages/clr_loader/util/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/clr_loader/util/__pycache__/clr_error.cpython-310.pyc",
+    "Lib/site-packages/clr_loader/util/__pycache__/coreclr_errors.cpython-310.pyc",
+    "Lib/site-packages/clr_loader/util/__pycache__/find.cpython-310.pyc",
+    "Lib/site-packages/clr_loader/util/__pycache__/hostfxr_errors.cpython-310.pyc",
+    "Lib/site-packages/clr_loader/util/__pycache__/runtime_spec.cpython-310.pyc"
+  ],
+  "fn": "clr_loader-0.3.1-pyhd8ed1ab_0.conda",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\LEC\\.conda\\pkgs\\clr_loader-0.3.1-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "e31057048d02ffd4b82e5d3deab73e0e",
+  "name": "clr_loader",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\LEC\\.conda\\pkgs\\clr_loader-0.3.1-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/clr_loader-0.3.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/clr_loader-0.3.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "5ef5654ad82dc3ab9cc752f6c72f6ea88a3e401aa3d80243596724566a1ca7c8",
+        "sha256_in_prefix": "5ef5654ad82dc3ab9cc752f6c72f6ea88a3e401aa3d80243596724566a1ca7c8",
+        "size_in_bytes": 1381
+      },
+      {
+        "_path": "site-packages/clr_loader-0.3.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "c739b9f11974284d08eb29b3756857c329cc82e914a9174894eb50c79b200654",
+        "sha256_in_prefix": "c739b9f11974284d08eb29b3756857c329cc82e914a9174894eb50c79b200654",
+        "size_in_bytes": 3199
+      },
+      {
+        "_path": "site-packages/clr_loader-0.3.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/clr_loader-0.3.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "69e6228a0d35958183cc1812f07c565ce837b95eb51bd8a33acba9fa4f68d6c9",
+        "sha256_in_prefix": "69e6228a0d35958183cc1812f07c565ce837b95eb51bd8a33acba9fa4f68d6c9",
+        "size_in_bytes": 91
+      },
+      {
+        "_path": "site-packages/clr_loader-0.3.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "6d291a0f0802f301a9e4308def082fc4d13b69e844b68442fce4b35195dc8593",
+        "sha256_in_prefix": "6d291a0f0802f301a9e4308def082fc4d13b69e844b68442fce4b35195dc8593",
+        "size_in_bytes": 106
+      },
+      {
+        "_path": "site-packages/clr_loader-0.3.1.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "dd6bdca10cdc3b24c6b0b6cef5fd611b7feb6917f127833283ddcdb310d3b453",
+        "sha256_in_prefix": "dd6bdca10cdc3b24c6b0b6cef5fd611b7feb6917f127833283ddcdb310d3b453",
+        "size_in_bytes": 1079
+      },
+      {
+        "_path": "site-packages/clr_loader-0.3.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "2d23336bd75b77f914212f1cdf3caeb2ba24b33c417990e713c244391e6be3ce",
+        "sha256_in_prefix": "2d23336bd75b77f914212f1cdf3caeb2ba24b33c417990e713c244391e6be3ce",
+        "size_in_bytes": 11
+      },
+      {
+        "_path": "site-packages/clr_loader/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "b842865a55d92906f6880ecfa2f9365845826ba38c80e4ed842b1851d9419d89",
+        "sha256_in_prefix": "b842865a55d92906f6880ecfa2f9365845826ba38c80e4ed842b1851d9419d89",
+        "size_in_bytes": 7007
+      },
+      {
+        "_path": "site-packages/clr_loader/ffi/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a3305f9361ec16c424848c1404db3c8a8f2668f615e1824dad4a64c1f4df04dd",
+        "sha256_in_prefix": "a3305f9361ec16c424848c1404db3c8a8f2668f615e1824dad4a64c1f4df04dd",
+        "size_in_bytes": 2457
+      },
+      {
+        "_path": "site-packages/clr_loader/ffi/dlls/amd64/ClrLoader.dll",
+        "path_type": "hardlink",
+        "sha256": "6f5be65905118a4059a6be8a409c40846805e1e1e57d8673ffc3814ba217b880",
+        "sha256_in_prefix": "6f5be65905118a4059a6be8a409c40846805e1e1e57d8673ffc3814ba217b880",
+        "size_in_bytes": 10752
+      },
+      {
+        "_path": "site-packages/clr_loader/ffi/dlls/amd64/ClrLoader.pdb",
+        "path_type": "hardlink",
+        "sha256": "e12cbeaab7efd828e0633db1e5404e0f204459280683c4d758ed60ab46143cc5",
+        "sha256_in_prefix": "e12cbeaab7efd828e0633db1e5404e0f204459280683c4d758ed60ab46143cc5",
+        "size_in_bytes": 6364
+      },
+      {
+        "_path": "site-packages/clr_loader/ffi/dlls/x86/ClrLoader.dll",
+        "path_type": "hardlink",
+        "sha256": "d79a53b81cb00c58047b70327bf5a1a17a14b89cf0e0c85e76c120b0454bafc1",
+        "sha256_in_prefix": "d79a53b81cb00c58047b70327bf5a1a17a14b89cf0e0c85e76c120b0454bafc1",
+        "size_in_bytes": 10752
+      },
+      {
+        "_path": "site-packages/clr_loader/ffi/dlls/x86/ClrLoader.pdb",
+        "path_type": "hardlink",
+        "sha256": "283d8e41d2c89f051b1f796bf88eb9e5226013b6b9cdcff92e0cb9729c09bb35",
+        "sha256_in_prefix": "283d8e41d2c89f051b1f796bf88eb9e5226013b6b9cdcff92e0cb9729c09bb35",
+        "size_in_bytes": 6364
+      },
+      {
+        "_path": "site-packages/clr_loader/ffi/hostfxr.py",
+        "path_type": "hardlink",
+        "sha256": "1c8eed56d4a4fd0061d6bc9494597c721fe8757d2884a1e02302404cf2c85663",
+        "sha256_in_prefix": "1c8eed56d4a4fd0061d6bc9494597c721fe8757d2884a1e02302404cf2c85663",
+        "size_in_bytes": 3083
+      },
+      {
+        "_path": "site-packages/clr_loader/ffi/mono.py",
+        "path_type": "hardlink",
+        "sha256": "e2d2a2725b6069f720c1caebbd5d9bc407548d0fe7411b0e80f665ad81cd9d05",
+        "sha256_in_prefix": "e2d2a2725b6069f720c1caebbd5d9bc407548d0fe7411b0e80f665ad81cd9d05",
+        "size_in_bytes": 1607
+      },
+      {
+        "_path": "site-packages/clr_loader/ffi/netfx.py",
+        "path_type": "hardlink",
+        "sha256": "020cbb56a95b6e001b39e47cc68db579746c02c700afe3f33c1dfe326b013e84",
+        "sha256_in_prefix": "020cbb56a95b6e001b39e47cc68db579746c02c700afe3f33c1dfe326b013e84",
+        "size_in_bytes": 420
+      },
+      {
+        "_path": "site-packages/clr_loader/hostfxr.py",
+        "path_type": "hardlink",
+        "sha256": "d210b532a930f9b927d83ef362199dca7358d0cd0ce8d1cc6f0a72f048d51036",
+        "sha256_in_prefix": "d210b532a930f9b927d83ef362199dca7358d0cd0ce8d1cc6f0a72f048d51036",
+        "size_in_bytes": 6110
+      },
+      {
+        "_path": "site-packages/clr_loader/mono.py",
+        "path_type": "hardlink",
+        "sha256": "2970ce744f1c9bace91b7b0f27d5fb86302cc5c2a97addff4ee1084ebbfbf874",
+        "sha256_in_prefix": "2970ce744f1c9bace91b7b0f27d5fb86302cc5c2a97addff4ee1084ebbfbf874",
+        "size_in_bytes": 6908
+      },
+      {
+        "_path": "site-packages/clr_loader/netfx.py",
+        "path_type": "hardlink",
+        "sha256": "d07bd46ed65d7b43ff575999aef145132e7e9fd07321f1a3e27f2b3bd3736718",
+        "sha256_in_prefix": "d07bd46ed65d7b43ff575999aef145132e7e9fd07321f1a3e27f2b3bd3736718",
+        "size_in_bytes": 1894
+      },
+      {
+        "_path": "site-packages/clr_loader/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/clr_loader/types.py",
+        "path_type": "hardlink",
+        "sha256": "f6c9799e9a48490a7bed0c1d4df7b6c34b364f9386bb8dfb78d0d75862620f96",
+        "sha256_in_prefix": "f6c9799e9a48490a7bed0c1d4df7b6c34b364f9386bb8dfb78d0d75862620f96",
+        "size_in_bytes": 4743
+      },
+      {
+        "_path": "site-packages/clr_loader/util/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "87692ea95faf9c8a30ccfc5ddcacb5360c7edbd91a4a271ddcffd91a307ce4aa",
+        "sha256_in_prefix": "87692ea95faf9c8a30ccfc5ddcacb5360c7edbd91a4a271ddcffd91a307ce4aa",
+        "size_in_bytes": 994
+      },
+      {
+        "_path": "site-packages/clr_loader/util/clr_error.py",
+        "path_type": "hardlink",
+        "sha256": "ffb8946b425faa5a9d658c5dd33889968f18d6fa22016028750ce1983a0cd763",
+        "sha256_in_prefix": "ffb8946b425faa5a9d658c5dd33889968f18d6fa22016028750ce1983a0cd763",
+        "size_in_bytes": 673
+      },
+      {
+        "_path": "site-packages/clr_loader/util/coreclr_errors.py",
+        "path_type": "hardlink",
+        "sha256": "6213d84b474b757241f5da94e53a1c2840fc9ec847419e7c30556af9913f35da",
+        "sha256_in_prefix": "6213d84b474b757241f5da94e53a1c2840fc9ec847419e7c30556af9913f35da",
+        "size_in_bytes": 80337
+      },
+      {
+        "_path": "site-packages/clr_loader/util/find.py",
+        "path_type": "hardlink",
+        "sha256": "dcaec6c9f20accc0e06325ea8a9784179a71cc30224ad03ddd50a9f4715078f3",
+        "sha256_in_prefix": "dcaec6c9f20accc0e06325ea8a9784179a71cc30224ad03ddd50a9f4715078f3",
+        "size_in_bytes": 6184
+      },
+      {
+        "_path": "site-packages/clr_loader/util/hostfxr_errors.py",
+        "path_type": "hardlink",
+        "sha256": "1d2b3bf56330935d24ad6247f89e5507a43ebbfb610626dbde6d38630724a8ea",
+        "sha256_in_prefix": "1d2b3bf56330935d24ad6247f89e5507a43ebbfb610626dbde6d38630724a8ea",
+        "size_in_bytes": 1905
+      },
+      {
+        "_path": "site-packages/clr_loader/util/runtime_spec.py",
+        "path_type": "hardlink",
+        "sha256": "d74044e636c0fb4bd1b37b2c46f5312273d490e52a921ec851358d15fc01c091",
+        "sha256_in_prefix": "d74044e636c0fb4bd1b37b2c46f5312273d490e52a921ec851358d15fc01c091",
+        "size_in_bytes": 1046
+      },
+      {
+        "_path": "Lib/site-packages/clr_loader/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/clr_loader/ffi/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/clr_loader/ffi/__pycache__/hostfxr.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/clr_loader/ffi/__pycache__/mono.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/clr_loader/ffi/__pycache__/netfx.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/clr_loader/__pycache__/hostfxr.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/clr_loader/__pycache__/mono.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/clr_loader/__pycache__/netfx.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/clr_loader/__pycache__/types.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/clr_loader/util/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/clr_loader/util/__pycache__/clr_error.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/clr_loader/util/__pycache__/coreclr_errors.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/clr_loader/util/__pycache__/find.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/clr_loader/util/__pycache__/hostfxr_errors.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/clr_loader/util/__pycache__/runtime_spec.cpython-310.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "62bfba9dab25f8c6fe893bde9017640d4e720197a53f918687d99826b4104015",
+  "size": 48132,
+  "subdir": "noarch",
+  "timestamp": 1776540804733,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/clr_loader-0.3.1-pyhd8ed1ab_0.conda",
+  "version": "0.3.1"
+}

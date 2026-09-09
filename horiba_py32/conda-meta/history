@@ -1,0 +1,46 @@
+==> 2026-09-09 12:45:25 <==
+# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py create -n horiba_py32 python=3.10
+# conda version: 4.14.0
++conda-forge/noarch::ca-certificates-2026.7.22-h4c7d964_0
++conda-forge/noarch::packaging-26.3-pyhc364b38_0
++conda-forge/noarch::pip-26.2.1-pyh8b19718_0
++conda-forge/noarch::setuptools-84.0.0-pyh332efcf_0
++conda-forge/noarch::tzdata-2026c-h151e31d_0
++conda-forge/noarch::wheel-0.48.0-pyhd8ed1ab_0
++conda-forge/win-32::zlib-1.2.11-vc14_0
++defaults/win-32::bzip2-1.0.8-he774522_0
++defaults/win-32::libffi-3.4.2-h6986bd8_4
++defaults/win-32::openssl-1.1.1o-hc431981_0
++defaults/win-32::python-3.10.4-hdf15aeb_0
++defaults/win-32::sqlite-3.38.3-hc431981_0
++defaults/win-32::tk-8.6.12-hc431981_0
++defaults/win-32::vc-14.2-h21ff451_1
++defaults/win-32::vs2015_runtime-14.27.29016-h5e58377_2
++defaults/win-32::xz-5.2.5-h559d222_1
+# update specs: ['python=3.10']
+==> 2026-09-09 12:49:53 <==
+# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py install pywin32
+# conda version: 4.14.0
++defaults/win-32::pywin32-302-py310hc431981_2
+# update specs: ['pywin32']
+==> 2026-09-09 13:30:45 <==
+# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py install conda-forge::pythonnet
+# conda version: 4.14.0
+-defaults/win-32::openssl-1.1.1o-hc431981_0
+-defaults/win-32::vs2015_runtime-14.27.29016-h5e58377_2
++conda-forge/noarch::clr_loader-0.3.1-pyhd8ed1ab_0
++conda-forge/noarch::pycparser-3.0-pyhcf101f3_0
++conda-forge/noarch::pythonnet-3.1.0-pyhd8ed1ab_0
++conda-forge/win-64::cffi-1.17.1-py310ha8f682b_0
++conda-forge/win-64::openssl-1.1.1w-hcfcfb64_0
++conda-forge/win-64::python_abi-3.10-2_cp310
++conda-forge/win-64::ucrt-10.0.26100.0-h57928b3_0
++conda-forge/win-64::vc14_runtime-14.51.36247-habf1de7_41
++conda-forge/win-64::vcomp14-14.51.36247-habf1de7_41
++conda-forge/win-64::vs2015_runtime-14.51.36247-h633cb9f_41
+# update specs: ['conda-forge::pythonnet']
+==> 2026-09-09 13:31:06 <==
+# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py install conda-forge::comtypes
+# conda version: 4.14.0
++conda-forge/win-64::comtypes-1.4.16-py310h5588dad_0
+# update specs: ['conda-forge::comtypes']

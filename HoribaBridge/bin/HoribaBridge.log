@@ -1,0 +1,70 @@
+2026-09-11 14:52:15.277 Bridge started.
+2026-09-11 14:52:15.426 Creating ConfigBrowser.
+2026-09-11 14:52:15.426 Calling ConfigBrowser.Load.
+2026-09-11 14:52:15.436 Calling ConfigBrowser.GetFirstMono.
+2026-09-11 14:52:15.437 Creating MonochromatorClass for Mono1.
+2026-09-11 14:52:15.917 MonochromatorClass created.
+2026-09-11 14:52:15.920 Calling mono.Load.
+2026-09-11 14:52:15.956 Calling mono.OpenCommunications.
+2026-09-11 14:52:16.167 Calling mono.Initialize.
+2026-09-11 14:52:16.188 Initialize event received: 0.
+2026-09-11 14:52:58.488 Bridge started.
+2026-09-11 14:52:58.559 Creating ConfigBrowser.
+2026-09-11 14:52:58.574 Calling ConfigBrowser.Load.
+2026-09-11 14:52:58.578 Calling ConfigBrowser.GetFirstMono.
+2026-09-11 14:52:58.579 Creating MonochromatorClass for Mono1.
+2026-09-11 14:52:58.985 MonochromatorClass created.
+2026-09-11 14:52:58.987 Calling mono.Load.
+2026-09-11 14:52:59.000 Calling mono.OpenCommunications.
+2026-09-11 14:52:59.060 Calling mono.Initialize.
+2026-09-11 14:52:59.087 Initialize event received: 0.
+2026-09-11 14:53:17.001 Bridge started.
+2026-09-11 14:53:17.080 Creating ConfigBrowser.
+2026-09-11 14:53:17.083 Calling ConfigBrowser.Load.
+2026-09-11 14:53:17.087 Calling ConfigBrowser.GetFirstMono.
+2026-09-11 14:53:17.088 Creating MonochromatorClass for Mono1.
+2026-09-11 14:53:17.542 MonochromatorClass created.
+2026-09-11 14:53:17.542 Calling mono.Load.
+2026-09-11 14:53:17.562 Calling mono.OpenCommunications.
+2026-09-11 14:53:17.638 Calling mono.Initialize.
+2026-09-11 14:53:17.689 Initialize event received: 0.
+2026-09-11 14:54:19.172 Bridge started.
+2026-09-11 14:54:19.246 Creating ConfigBrowser.
+2026-09-11 14:54:19.249 Calling ConfigBrowser.Load.
+2026-09-11 14:54:19.253 Calling ConfigBrowser.GetFirstMono.
+2026-09-11 14:54:19.254 Creating MonochromatorClass for Mono1.
+2026-09-11 14:54:19.672 MonochromatorClass created.
+2026-09-11 14:54:19.672 Calling mono.Load.
+2026-09-11 14:54:19.682 Calling mono.OpenCommunications.
+2026-09-11 14:54:19.778 Calling mono.Initialize.
+2026-09-11 14:54:19.814 Initialize event received: 0.
+2026-09-11 14:54:30.148 Bridge started.
+2026-09-11 14:54:30.218 Creating ConfigBrowser.
+2026-09-11 14:54:30.222 Calling ConfigBrowser.Load.
+2026-09-11 14:54:30.225 Calling ConfigBrowser.GetFirstMono.
+2026-09-11 14:54:30.226 Creating MonochromatorClass for Mono1.
+2026-09-11 14:54:30.640 MonochromatorClass created.
+2026-09-11 14:54:30.642 Calling mono.Load.
+2026-09-11 14:54:30.655 Calling mono.OpenCommunications.
+2026-09-11 14:54:30.723 Calling mono.Initialize.
+2026-09-11 14:54:30.748 Initialize event received: 0.
+2026-09-11 14:54:42.182 Bridge started.
+2026-09-11 14:54:42.256 Creating ConfigBrowser.
+2026-09-11 14:54:42.256 Calling ConfigBrowser.Load.
+2026-09-11 14:54:42.256 Calling ConfigBrowser.GetFirstMono.
+2026-09-11 14:54:42.256 Creating MonochromatorClass for Mono1.
+2026-09-11 14:54:42.673 MonochromatorClass created.
+2026-09-11 14:54:42.674 Calling mono.Load.
+2026-09-11 14:54:42.687 Calling mono.OpenCommunications.
+2026-09-11 14:54:42.758 Calling mono.Initialize.
+2026-09-11 14:54:42.782 Initialize event received: 0.
+2026-09-11 15:03:40.915 Bridge started.
+2026-09-11 15:03:40.991 Creating ConfigBrowser.
+2026-09-11 15:03:40.991 Calling ConfigBrowser.Load.
+2026-09-11 15:03:41.005 Calling ConfigBrowser.GetFirstMono.
+2026-09-11 15:03:41.007 Creating MonochromatorClass for Mono1.
+2026-09-11 15:03:41.492 MonochromatorClass created.
+2026-09-11 15:03:41.502 Calling mono.Load.
+2026-09-11 15:03:41.519 Calling mono.OpenCommunications.
+2026-09-11 15:03:41.587 Calling mono.Initialize.
+2026-09-11 15:03:41.626 Initialize event received: 0.

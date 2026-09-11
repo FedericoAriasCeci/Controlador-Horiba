@@ -1,0 +1,46 @@
+C:\Program Files\Jobin Yvon\JYSDK\Examples\.NET\C#\Mono_Cs_NET\Mono_Cs_NET\bin\Debug\Mono_Cs_NET.exe.config
+C:\Program Files\Jobin Yvon\JYSDK\Examples\.NET\C#\Mono_Cs_NET\Mono_Cs_NET\bin\Debug\Mono_Cs_NET.exe
+C:\Program Files\Jobin Yvon\JYSDK\Examples\.NET\C#\Mono_Cs_NET\Mono_Cs_NET\bin\Debug\Mono_Cs_NET.pdb
+C:\Program Files\Jobin Yvon\JYSDK\Examples\.NET\C#\Mono_Cs_NET\Mono_Cs_NET\bin\Debug\Interop.JYMONOLib.dll
+C:\Program Files\Jobin Yvon\JYSDK\Examples\.NET\C#\Mono_Cs_NET\Mono_Cs_NET\bin\Debug\Interop.JYSYSTEMLIBLib.dll
+C:\Program Files\Jobin Yvon\JYSDK\Examples\.NET\C#\Mono_Cs_NET\Mono_Cs_NET\obj\x86\Debug\Interop.JYCONFIGBROWSERCOMPONENTLib.dll
+C:\Program Files\Jobin Yvon\JYSDK\Examples\.NET\C#\Mono_Cs_NET\Mono_Cs_NET\obj\x86\Debug\Interop.JYMONOLib.dll
+C:\Program Files\Jobin Yvon\JYSDK\Examples\.NET\C#\Mono_Cs_NET\Mono_Cs_NET\obj\x86\Debug\Interop.JYSYSTEMLIBLib.dll
+C:\Program Files\Jobin Yvon\JYSDK\Examples\.NET\C#\Mono_Cs_NET\Mono_Cs_NET\obj\x86\Debug\Interop.MSXML2.dll
+C:\Program Files\Jobin Yvon\JYSDK\Examples\.NET\C#\Mono_Cs_NET\Mono_Cs_NET\obj\x86\Debug\Mono_Cs_NET.csproj.ResolveComReference.cache
+C:\Program Files\Jobin Yvon\JYSDK\Examples\.NET\C#\Mono_Cs_NET\Mono_Cs_NET\obj\x86\Debug\MonoSimple.Form1.resources
+C:\Program Files\Jobin Yvon\JYSDK\Examples\.NET\C#\Mono_Cs_NET\Mono_Cs_NET\obj\x86\Debug\Mono_Cs_NET.Properties.Resources.resources
+C:\Program Files\Jobin Yvon\JYSDK\Examples\.NET\C#\Mono_Cs_NET\Mono_Cs_NET\obj\x86\Debug\Mono_Cs_NET.csproj.GenerateResource.Cache
+C:\Program Files\Jobin Yvon\JYSDK\Examples\.NET\C#\Mono_Cs_NET\Mono_Cs_NET\obj\x86\Debug\Mono_Cs_NET.exe
+C:\Program Files\Jobin Yvon\JYSDK\Examples\.NET\C#\Mono_Cs_NET\Mono_Cs_NET\obj\x86\Debug\Mono_Cs_NET.pdb
+C:\Program Files\Jobin Yvon\JYSDK\Examples\.NET\C#\Mono_Cs_NET\Mono_Cs_NET\obj\x86\Debug\Mono_Cs_NET.csprojResolveAssemblyReference.cache
+C:\jy\new7-11-16\.NET\Csharp\Mono_Cs_NET_5-30-16\Mono_Cs_NET\Mono_Cs_NET\bin\Debug\Mono_Cs_NET.exe.config
+C:\jy\new7-11-16\.NET\Csharp\Mono_Cs_NET_5-30-16\Mono_Cs_NET\Mono_Cs_NET\bin\Debug\Mono_Cs_NET.exe
+C:\jy\new7-11-16\.NET\Csharp\Mono_Cs_NET_5-30-16\Mono_Cs_NET\Mono_Cs_NET\bin\Debug\Mono_Cs_NET.pdb
+C:\jy\new7-11-16\.NET\Csharp\Mono_Cs_NET_5-30-16\Mono_Cs_NET\Mono_Cs_NET\bin\Debug\Interop.JYMONOLib.dll
+C:\jy\new7-11-16\.NET\Csharp\Mono_Cs_NET_5-30-16\Mono_Cs_NET\Mono_Cs_NET\bin\Debug\Interop.JYSYSTEMLIBLib.dll
+C:\jy\new7-11-16\.NET\Csharp\Mono_Cs_NET_5-30-16\Mono_Cs_NET\Mono_Cs_NET\obj\x86\Debug\Interop.JYCONFIGBROWSERCOMPONENTLib.dll
+C:\jy\new7-11-16\.NET\Csharp\Mono_Cs_NET_5-30-16\Mono_Cs_NET\Mono_Cs_NET\obj\x86\Debug\Interop.JYMONOLib.dll
+C:\jy\new7-11-16\.NET\Csharp\Mono_Cs_NET_5-30-16\Mono_Cs_NET\Mono_Cs_NET\obj\x86\Debug\Interop.JYSYSTEMLIBLib.dll
+C:\jy\new7-11-16\.NET\Csharp\Mono_Cs_NET_5-30-16\Mono_Cs_NET\Mono_Cs_NET\obj\x86\Debug\Interop.MSXML2.dll
+C:\jy\new7-11-16\.NET\Csharp\Mono_Cs_NET_5-30-16\Mono_Cs_NET\Mono_Cs_NET\obj\x86\Debug\Mono_Cs_NET.csproj.ResolveComReference.cache
+C:\jy\new7-11-16\.NET\Csharp\Mono_Cs_NET_5-30-16\Mono_Cs_NET\Mono_Cs_NET\obj\x86\Debug\MonoSimple.Form1.resources
+C:\jy\new7-11-16\.NET\Csharp\Mono_Cs_NET_5-30-16\Mono_Cs_NET\Mono_Cs_NET\obj\x86\Debug\Mono_Cs_NET.Properties.Resources.resources
+C:\jy\new7-11-16\.NET\Csharp\Mono_Cs_NET_5-30-16\Mono_Cs_NET\Mono_Cs_NET\obj\x86\Debug\Mono_Cs_NET.csproj.GenerateResource.Cache
+C:\jy\new7-11-16\.NET\Csharp\Mono_Cs_NET_5-30-16\Mono_Cs_NET\Mono_Cs_NET\obj\x86\Debug\Mono_Cs_NET.exe
+C:\jy\new7-11-16\.NET\Csharp\Mono_Cs_NET_5-30-16\Mono_Cs_NET\Mono_Cs_NET\obj\x86\Debug\Mono_Cs_NET.pdb
+C:\Program Files\Jobin Yvon\JYSDK\Examples\.NET\C#\Mono_Cs_NET\Mono_Cs_NET\Mono_Cs_NET\bin\Debug\Mono_Cs_NET.exe.config
+C:\Program Files\Jobin Yvon\JYSDK\Examples\.NET\C#\Mono_Cs_NET\Mono_Cs_NET\Mono_Cs_NET\bin\Debug\Mono_Cs_NET.exe
+C:\Program Files\Jobin Yvon\JYSDK\Examples\.NET\C#\Mono_Cs_NET\Mono_Cs_NET\Mono_Cs_NET\bin\Debug\Mono_Cs_NET.pdb
+C:\Program Files\Jobin Yvon\JYSDK\Examples\.NET\C#\Mono_Cs_NET\Mono_Cs_NET\Mono_Cs_NET\bin\Debug\Interop.JYMONOLib.dll
+C:\Program Files\Jobin Yvon\JYSDK\Examples\.NET\C#\Mono_Cs_NET\Mono_Cs_NET\Mono_Cs_NET\bin\Debug\Interop.JYSYSTEMLIBLib.dll
+C:\Program Files\Jobin Yvon\JYSDK\Examples\.NET\C#\Mono_Cs_NET\Mono_Cs_NET\Mono_Cs_NET\obj\x86\Debug\Interop.JYCONFIGBROWSERCOMPONENTLib.dll
+C:\Program Files\Jobin Yvon\JYSDK\Examples\.NET\C#\Mono_Cs_NET\Mono_Cs_NET\Mono_Cs_NET\obj\x86\Debug\Interop.JYMONOLib.dll
+C:\Program Files\Jobin Yvon\JYSDK\Examples\.NET\C#\Mono_Cs_NET\Mono_Cs_NET\Mono_Cs_NET\obj\x86\Debug\Interop.JYSYSTEMLIBLib.dll
+C:\Program Files\Jobin Yvon\JYSDK\Examples\.NET\C#\Mono_Cs_NET\Mono_Cs_NET\Mono_Cs_NET\obj\x86\Debug\Interop.MSXML2.dll
+C:\Program Files\Jobin Yvon\JYSDK\Examples\.NET\C#\Mono_Cs_NET\Mono_Cs_NET\Mono_Cs_NET\obj\x86\Debug\Mono_Cs_NET.csproj.ResolveComReference.cache
+C:\Program Files\Jobin Yvon\JYSDK\Examples\.NET\C#\Mono_Cs_NET\Mono_Cs_NET\Mono_Cs_NET\obj\x86\Debug\MonoSimple.Form1.resources
+C:\Program Files\Jobin Yvon\JYSDK\Examples\.NET\C#\Mono_Cs_NET\Mono_Cs_NET\Mono_Cs_NET\obj\x86\Debug\Mono_Cs_NET.Properties.Resources.resources
+C:\Program Files\Jobin Yvon\JYSDK\Examples\.NET\C#\Mono_Cs_NET\Mono_Cs_NET\Mono_Cs_NET\obj\x86\Debug\Mono_Cs_NET.csproj.GenerateResource.Cache
+C:\Program Files\Jobin Yvon\JYSDK\Examples\.NET\C#\Mono_Cs_NET\Mono_Cs_NET\Mono_Cs_NET\obj\x86\Debug\Mono_Cs_NET.exe
+C:\Program Files\Jobin Yvon\JYSDK\Examples\.NET\C#\Mono_Cs_NET\Mono_Cs_NET\Mono_Cs_NET\obj\x86\Debug\Mono_Cs_NET.pdb

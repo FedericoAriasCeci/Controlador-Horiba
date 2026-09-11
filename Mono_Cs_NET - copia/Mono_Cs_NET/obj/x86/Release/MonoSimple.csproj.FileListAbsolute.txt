@@ -1,0 +1,16 @@
+C:\Program Files\Jobin Yvon\SDK\Examples\.NET\C#\Mono\MonoSimple\bin\Release\MonoSimple.exe.config
+C:\Program Files\Jobin Yvon\SDK\Examples\.NET\C#\Mono\MonoSimple\bin\Release\MonoSimple.exe
+C:\Program Files\Jobin Yvon\SDK\Examples\.NET\C#\Mono\MonoSimple\bin\Release\MonoSimple.pdb
+C:\Program Files\Jobin Yvon\SDK\Examples\.NET\C#\Mono\MonoSimple\bin\Release\Interop.JYMONOLib.dll
+C:\Program Files\Jobin Yvon\SDK\Examples\.NET\C#\Mono\MonoSimple\bin\Release\Interop.JYSYSTEMLIBLib.dll
+C:\Program Files\Jobin Yvon\SDK\Examples\.NET\C#\Mono\MonoSimple\obj\x86\Release\MonoSimple.csprojResolveAssemblyReference.cache
+C:\Program Files\Jobin Yvon\SDK\Examples\.NET\C#\Mono\MonoSimple\obj\x86\Release\Interop.JYCONFIGBROWSERCOMPONENTLib.dll
+C:\Program Files\Jobin Yvon\SDK\Examples\.NET\C#\Mono\MonoSimple\obj\x86\Release\Interop.JYMONOLib.dll
+C:\Program Files\Jobin Yvon\SDK\Examples\.NET\C#\Mono\MonoSimple\obj\x86\Release\Interop.JYSYSTEMLIBLib.dll
+C:\Program Files\Jobin Yvon\SDK\Examples\.NET\C#\Mono\MonoSimple\obj\x86\Release\Interop.MSXML2.dll
+C:\Program Files\Jobin Yvon\SDK\Examples\.NET\C#\Mono\MonoSimple\obj\x86\Release\MonoSimple.csproj.ResolveComReference.cache
+C:\Program Files\Jobin Yvon\SDK\Examples\.NET\C#\Mono\MonoSimple\obj\x86\Release\MonoSimple.Form1.resources
+C:\Program Files\Jobin Yvon\SDK\Examples\.NET\C#\Mono\MonoSimple\obj\x86\Release\MonoSimple.Properties.Resources.resources
+C:\Program Files\Jobin Yvon\SDK\Examples\.NET\C#\Mono\MonoSimple\obj\x86\Release\MonoSimple.csproj.GenerateResource.Cache
+C:\Program Files\Jobin Yvon\SDK\Examples\.NET\C#\Mono\MonoSimple\obj\x86\Release\MonoSimple.exe
+C:\Program Files\Jobin Yvon\SDK\Examples\.NET\C#\Mono\MonoSimple\obj\x86\Release\MonoSimple.pdb

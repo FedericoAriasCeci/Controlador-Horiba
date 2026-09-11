@@ -1,0 +1,15 @@
+C:\Program Files\Jobin Yvon\SDK\Examples\.NET\C#\Mono\MonoSimple\bin\Debug\MonoSimple.exe.config
+C:\Program Files\Jobin Yvon\SDK\Examples\.NET\C#\Mono\MonoSimple\bin\Debug\MonoSimple.exe
+C:\Program Files\Jobin Yvon\SDK\Examples\.NET\C#\Mono\MonoSimple\bin\Debug\MonoSimple.pdb
+C:\Program Files\Jobin Yvon\SDK\Examples\.NET\C#\Mono\MonoSimple\bin\Debug\Interop.JYMONOLib.dll
+C:\Program Files\Jobin Yvon\SDK\Examples\.NET\C#\Mono\MonoSimple\obj\x86\Debug\Interop.JYCONFIGBROWSERCOMPONENTLib.dll
+C:\Program Files\Jobin Yvon\SDK\Examples\.NET\C#\Mono\MonoSimple\obj\x86\Debug\Interop.JYMONOLib.dll
+C:\Program Files\Jobin Yvon\SDK\Examples\.NET\C#\Mono\MonoSimple\obj\x86\Debug\Interop.JYSYSTEMLIBLib.dll
+C:\Program Files\Jobin Yvon\SDK\Examples\.NET\C#\Mono\MonoSimple\obj\x86\Debug\Interop.MSXML2.dll
+C:\Program Files\Jobin Yvon\SDK\Examples\.NET\C#\Mono\MonoSimple\obj\x86\Debug\MonoSimple.csproj.ResolveComReference.cache
+C:\Program Files\Jobin Yvon\SDK\Examples\.NET\C#\Mono\MonoSimple\obj\x86\Debug\MonoSimple.Form1.resources
+C:\Program Files\Jobin Yvon\SDK\Examples\.NET\C#\Mono\MonoSimple\obj\x86\Debug\MonoSimple.Properties.Resources.resources
+C:\Program Files\Jobin Yvon\SDK\Examples\.NET\C#\Mono\MonoSimple\obj\x86\Debug\MonoSimple.csproj.GenerateResource.Cache
+C:\Program Files\Jobin Yvon\SDK\Examples\.NET\C#\Mono\MonoSimple\obj\x86\Debug\MonoSimple.exe
+C:\Program Files\Jobin Yvon\SDK\Examples\.NET\C#\Mono\MonoSimple\obj\x86\Debug\MonoSimple.pdb
+C:\Program Files\Jobin Yvon\SDK\Examples\.NET\C#\Mono\MonoSimple\bin\Debug\Interop.JYSYSTEMLIBLib.dll
